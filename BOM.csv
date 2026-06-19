@@ -1,0 +1,26 @@
+Reference,Value,Package,Part Number,Supplier,Unit Cost,Quantity,Total Cost,Notes
+U2,NCP1117-3.3,TO-220,NCP1117ST33T100,Digi-Key,0.35,1,0.35,3.3V LDO Regulator
+U3,NCP1117-2.5,TO-220,NCP1117ST25T100,Digi-Key,0.35,1,0.35,2.5V LDO Regulator
+U1,OPA2333,SOIC-8,OPA2333UA/2K5,Digi-Key,0.89,1,0.89,Dual Low-Noise Op-Amp
+C1,10µF,1210,EEVFK1E100SR,Digi-Key,0.25,1,0.25,Low-ESR Electrolytic
+C3,10µF,1210,EEVFK1E100SR,Digi-Key,0.25,1,0.25,Low-ESR Electrolytic
+C2,0.1µF,0805,GRM31CR61A104KA19L,Digi-Key,0.08,1,0.08,Ceramic X7R
+C4,0.1µF,0805,GRM31CR61A104KA19L,Digi-Key,0.08,1,0.08,Ceramic X7R
+C5,10µF,1206,ECE-S1XC106M,Digi-Key,0.45,1,0.45,Film Capacitor
+C6,5µF,1206,ECE-S1XC505M,Digi-Key,0.35,1,0.35,Film Capacitor
+C7,10µF,1206,ECE-S1XC106M,Digi-Key,0.45,1,0.45,Bypass Capacitor
+C8,5nF,0805,C0G NP0,Digi-Key,0.05,1,0.05,C0G/NP0 Ceramic
+C9,10µF,1206,ECE-S1XC106M,Digi-Key,0.45,1,0.45,Film Capacitor
+R1,2.2kΩ,0805,RC0805JR-072K2L,Digi-Key,0.05,1,0.05,1% Precision Resistor
+R2,10kΩ,0805,RC0805JR-0710KL,Digi-Key,0.05,1,0.05,1% Precision Resistor
+R3,1.6kΩ,0805,RC0805JR-071K6L,Digi-Key,0.05,1,0.05,1% Precision Resistor
+R4,10kΩ,0805,RC0805JR-0710KL,Digi-Key,0.05,1,0.05,1% Precision Resistor
+R6,10kΩ,0805,RR0816F-103-D,Digi-Key,0.15,1,0.15,0.1% Precision Resistor 5ppm/°C
+R7,990kΩ,0805,RR0816F-994-D,Digi-Key,0.15,1,0.15,0.1% Precision Resistor 5ppm/°C
+R8,1.6kΩ,0805,RC0805JR-071K6L,Digi-Key,0.05,1,0.05,1% Precision Resistor
+D1,TVS 5V,SOD-123,SMBJ5.0A,Digi-Key,0.12,1,0.12,ESD Protection
+J1,BNC,Connector,U.FL-R-SMD-1H,Digi-Key,1.25,1,1.25,Microphone Input (or Chassis Mount)
+J2,BNC,Connector,U.FL-R-SMD-1H,Digi-Key,1.25,1,1.25,Signal Output (or Chassis Mount)
+J3,Header 2-pin,0.1" Pitch,TSW-102-07-T-S,Digi-Key,0.35,1,0.35,Power Input
+PCB,PCB 97x57mm,2-layer,N/A,JLCPCB or similar,2.50,1,2.50,
+,,,,,,TOTAL:,11.17,
